@@ -1,0 +1,218 @@
+body{
+    font-family: Arial,sans-serif;
+    color: #1f1f1f
+}
+header{
+    align-items: center;
+    text-align: right;
+}
+.Gmail{
+    color: #1f1f1f;
+    text-decoration: none;
+display:inline-flex;
+padding-right: 10px;
+    padding-left: 10px;
+
+}
+.Imágenes{
+    color: #1f1f1f;
+    text-decoration: none;
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.menu{
+ display:inline-flex;
+}
+.Iniciar{
+    display:inline-flex;
+    padding: 10px;
+    background-color: #1B62D3 ;
+    color: white;
+    border-style: none;
+    border-radius: 15px;
+}
+.Iniciar:hover{
+    background-color: #10346e;
+}
+.Barra{
+    align-items: center;
+    text-align: center;
+    margin: 0%;
+    border-radius: 20px;
+    border: 1px;
+    border-color: black;
+    border-style:solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.más{
+    align-items: center;
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Espacio{
+    align-items: center;
+    display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+    height:25px;
+    width:450px ;
+    border-style: none;
+}
+.Micro{
+    align-items: center;
+    display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Cámara{
+    align-items: center;
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.IA{
+    align-items: center;
+    display:inline-flex;
+    background-color: #F3F5F6;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Google{
+    margin-top: 60px;
+    margin-bottom:10px ;
+    text-align: center;
+}
+.Guatemala{
+ margin-top: 80px;
+ background-color: #F3F5F6;
+}
+footer{
+    background-color: #F3F5F6;
+    display:inline-flex;
+    margin: 0%;
+    padding: 0%;
+}
+.Sobre{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+.Publicidad{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Negocios{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Como{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Privacidad{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 490px;
+}
+.Condiciones{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.Configuración{
+display:inline-flex;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.botones{
+    margin-top: 30px;
+    text-align: center;
+}
+.boton1{
+    font-size: medium;
+    margin-right:30px ;
+    border-style: none;
+    background-color: #F8F9FA ;
+}
+.boton2{
+    font-size: medium;
+    background-color: #F8F9FA ;
+    border-style: none;
+}
+.boton1:hover{
+ box-shadow: #1f1f1f;
+}
+.boton2:hover{
+ box-shadow: #1f1f1f;
+}
+.texto{
+    text-align: center;
+    font-size: small;
+    margin-top: 4cap;
+    color:rgba(65, 63, 63, 0.815);
+}
+.axul{
+    color: rgba(25, 22, 175, 0.712);
+}
+/*--------------------------------------------------------Campus----------------------------------------------------- */
+.cuerpo{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    display: inline-flex;
+}
+.parte1{
+    background-image: url(imagenes_colegio/campus.png);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    height: 630px;
+    width: 850px;
+    padding: 0%;
+    margin: 0%;
+}
+.descarga{
+    color: rgb(255 255 255) ;
+    font-size:28px;
+    margin-bottom: 10px;
+    padding-left: 80px;
+}
+.APP{
+    margin-bottom: 50px;
+    padding-left: 80px;
+}
+.APP img {
+    height:40px;
+    width:130px;
+}
+.parte2{
+    text-align: center;
+    height: 630px;
+    width: 510px;
+    margin: 0%;
+    padding: 0%;
+}
+.grad{
+    margin-top: 60px;
+}
+.user input{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.texto12{
+    color:#023859;
+    font-size: 40px;
+}
+.Ingresat{
+    display: block;
+    color: #FFF;
+    background-color: #023859;
+    border-style: none;
+    
+}
