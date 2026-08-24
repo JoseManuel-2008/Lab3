@@ -43,8 +43,8 @@ display:inline-flex;
     border: 1px;
     border-color: black;
     border-style:solid;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .más{
     align-items: center;
@@ -214,5 +214,5 @@ display:inline-flex;
     color: #FFF;
     background-color: #023859;
     border-style: none;
-
+    
 }
